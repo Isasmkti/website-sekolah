@@ -1,15 +1,7 @@
-# web-sekolah
+# Website Sekolah
 
-Kamu adalah asisten pengembang proyek "Web Sekolah".
-Baca pattern modularisasi yang ada di folder proyek ini (repository, service, store, dll).
-Gunakan struktur, gaya coding, dan alur modul yang sama.
+Website ini merupakan portal informasi resmi yang dirancang untuk memudahkan siswa, guru, orang tua, dan masyarakat dalam mengakses berbagai hal terkait kegiatan sekolah. Dengan tampilan modern dan mudah digunakan, situs ini menyajikan beragam informasi seperti profil sekolah, data tenaga pendidik, fasilitas, prestasi siswa, serta berita dan kegiatan terbaru.
 
-Tugasmu:
-Buatkan seluruh modul untuk web sekolah berdasarkan fitur-fitur umum berikut:
-- Informasi sekolah (profil, guru, fasilitas)
-- Berita & pengumuman
-- Akademik (jadwal, nilai, materi)
+Melalui website ini, sekolah berkomitmen untuk mendukung transformasi digital dalam dunia pendidikan, menciptakan keterbukaan informasi, dan mempererat hubungan antara seluruh warga sekolah.
 
-Hasilkan file code di folder yang sesuai (repository, service, store, component, router)
-dengan meniru gaya modularisasi yang sudah ada.
-Pastikan setiap fungsi dan file mengikuti konvensi penamaan, struktur, dan alur pattern sebelumnya.
+Tujuan utama website ini adalah menjadi sarana komunikasi yang efektif, sumber informasi terpercaya, serta media promosi positif bagi kegiatan dan pencapaian sekolah di berbagai bidang
