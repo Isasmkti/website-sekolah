@@ -65,21 +65,21 @@
             <div class="absolute -bottom-2 left-0 w-12 h-0.5 bg-gradient-to-r from-green-400 to-teal-400 rounded-full"></div>
           </h3>
           <ul class="space-y-4">
-            <li class="flex items-start space-x-3">
+            <li class="flex items-center space-x-3">
               <div class="bg-white/10 backdrop-blur-sm rounded-full p-2 mt-0.5">
                 <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" class="h-4 w-4" alt="email" />
               </div>
-              <p class="text-gray-300 text-sm">info@sekolah.sch.id</p>
+              <a href="#" class="text-gray-300 text-sm">info@sdnsukamaju.sch.id</a>
             </li>
 
-            <li class="flex items-start space-x-3">
+            <li class="flex items-center space-x-3">
               <div class="bg-white/10 backdrop-blur-sm rounded-full p-2 mt-0.5">
                 <img src="https://cdn-icons-png.flaticon.com/128/14047/14047965.png" class="h-4 w-4" alt="phone" />
               </div>
               <p class="text-gray-300 text-sm">(021) 1234567</p>
             </li>
 
-            <li class="flex items-start space-x-3">
+            <li class="flex items-center space-x-3">
               <div class="bg-white/10 backdrop-blur-sm rounded-full p-2 mt-0.5">
                 <img src="https://cdn-icons-png.flaticon.com/512/684/684908.png" class="h-4 w-4" alt="location" />
               </div>

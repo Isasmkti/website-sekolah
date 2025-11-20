@@ -81,7 +81,7 @@ onMounted(() => {
     <!-- GURU SECTION -->
     <section class="mb-20" data-aos="fade-up">
       <div class="text-center mb-12">
-        <h2 class="text-4xl md:text-5xl font-bold mb-4 bg-gradient-to-r from-blue-600 to-indigo-700 bg-clip-text text-transparent" data-aos="fade-up">Tenaga Pendidik</h2>
+        <h2 class="text-4xl md:text-5xl font-bold mb-4 bg-gradient-to-r from-blue-600 to-indigo-700 bg-clip-text text-transparent p-2" data-aos="fade-up">Tenaga Pendidik</h2>
         <p class="text-lg text-gray-600 max-w-2xl mx-auto" data-aos="fade-up" data-aos-delay="200">Para pendidik profesional yang berdedikasi untuk memberikan pendidikan berkualitas tinggi</p>
       </div>
 
