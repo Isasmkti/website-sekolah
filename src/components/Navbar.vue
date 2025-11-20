@@ -23,28 +23,28 @@
             class="px-4 py-2 rounded-xl text-sm font-semibold hover:bg-white/10 transition-all duration-300 backdrop-blur-sm border border-transparent hover:border-white/20"
             active-class="bg-white/20 border-white/30"
           >
-            🏫 Profil Sekolah
+          Profil Sekolah
           </router-link>
           <router-link
             to="/news"
             class="px-4 py-2 rounded-xl text-sm font-semibold hover:bg-white/10 transition-all duration-300 backdrop-blur-sm border border-transparent hover:border-white/20"
             active-class="bg-white/20 border-white/30"
           >
-            📰 Berita & Pengumuman
+          Berita & Pengumuman
           </router-link>
           <router-link
             to="/academic"
             class="px-4 py-2 rounded-xl text-sm font-semibold hover:bg-white/10 transition-all duration-300 backdrop-blur-sm border border-transparent hover:border-white/20"
             active-class="bg-white/20 border-white/30"
           >
-            📚 Akademik
+          Akademik
           </router-link>
           <router-link
             to="/students"
             class="px-4 py-2 rounded-xl text-sm font-semibold hover:bg-white/10 transition-all duration-300 backdrop-blur-sm border border-transparent hover:border-white/20"
             active-class="bg-white/20 border-white/30"
           >
-            👨‍🎓 Siswa
+          Siswa
           </router-link>
         </div>
 
